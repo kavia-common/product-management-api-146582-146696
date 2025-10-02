@@ -9,5 +9,4 @@ class productsbackendapiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
